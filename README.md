@@ -3,6 +3,7 @@ A better way to test a cell for content, as it ignores a cell with only a spaceb
 
 funcHasAlphaNumeric
 Returns a boolean TRUE or FALSE
+
 ===============================================================================
 
 It is always a good idea to test your user's input to make sure they typed something. The typical way
